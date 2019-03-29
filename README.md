@@ -1,2 +1,2 @@
-# from-the-top-adobe-indesign-for-beginners
-Source files for Envato Tuts+ course: From the Top: Adobe InDesign for Beginners
+# Envato Tuts+ Course: From the Top: Adobe InDesign for Beginners
+## Instructor: [Dan Scott](https://tutsplus.com/authors/daniel-walter-scott)
